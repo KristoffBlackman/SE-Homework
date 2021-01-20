@@ -1,2 +1,3 @@
 # SE-Homework
-Pre work assignment for Per Scholas
+HW assignments for Per Scholas
+
